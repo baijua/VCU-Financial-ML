@@ -1,6 +1,6 @@
-# summer2019
+# Financial Machine Learning Internship May 2019 - August 2019
+Please read this before exploring the repository.
 
--Financial Machine Learning Internship-
 Developed competencies in the understanding and effective utilization of financial data while developing deep learning 
 and adaptive models. Created multinomial classification models which analyze historical financial data and revenues to 
 predict the credit score of companies listed in the S&P 500. Utilized Bloomberg Terminal to create reports and export 
