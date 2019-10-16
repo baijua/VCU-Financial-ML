@@ -1,12 +1,7 @@
-# Financial Machine Learning Internship May 2019 - August 2019
-Please read this before exploring the repository.
+# Financial Machine Learning Internship 
+# May 2019 - August 2019
 
-Developed competencies in the understanding and effective utilization of financial data while developing deep learning 
-and adaptive models. Created multinomial classification models which analyze historical financial data and revenues to 
-predict the credit score of companies listed in the S&P 500. Utilized Bloomberg Terminal to create reports and export 
-data for model building. Developed Python script which scrapes SEC filings database, conducts textual analysis (TextBlob), and returns 
-polarity/objectivity metrics for corporate research (EDGAR).
-
+## Please read this before exploring the repository.
 
 SP500 FINAL.xlsx - master Excel workbook with financial data concerning Altman financial ratios
 
