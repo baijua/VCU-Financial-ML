@@ -1,5 +1,4 @@
-# Financial Machine Learning Internship 
-# May 2019 - August 2019
+# Financial Machine Learning Internship ## May 2019 - August 2019 ## #
 
 ## Please read this before exploring the repository.
 
